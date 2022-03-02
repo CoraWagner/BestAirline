@@ -9,15 +9,38 @@ Once I decided the airport, I looked at the total number of delayed flights each
 
 ![Top 3 Airlines at BWI in 2019](graph1.png)
 
+Now that we have the top three airlines at BWI, I broke down the delay causes to compare the airlines based on delays.
+Southwest had the most carrier delays in 2019 while Delta had the least of the top three airlines.
 
 ![Carrier Delays for Airlines at BWI in 2019](graph2.png)
+
+Southwest had the most late aircraft delays in 2019 while Delta had the least of the top three airlines.
+
 ![Late Aircraft Delays for Airlilnes at BWI in 2019](graph3.png)
+
+Southwest had the most National Aviation System (NAS) delays in 2019 while Delta had the least of the top three airlines.
+
 ![NAS Delays for Airlines at BWI in 2019](graph4.png)
+
+Southwest had the most security delays in 2019 while Delta had the least of the top three airlines.
+
 ![Security Delays for Airlines at BWI in 2019](graph5.png)
+
+Southwest had the most weather delays in 2019 while Delta had the least of the top three airlines.
+
 ![Weather Delays for Airlines at BWI in 2019](graph6.png)
+
+Based on the prior graphs, Delta is the airline with the least delays in the top three airlines. Now I will breakdown Delta's delay causes for each year (2017-2019).
+The pie charts show that Delta improved thier delays between 2017 and 2019. Each year most of the categories decreased, except NAS and late aircraft delays.
+
 ![Delay Causes for Delta Airlines at BWI in 2017](graph7.png)
 ![Delay Causes for Delta Airlines at BWI in 2018](graph8.png)
 ![Delay Causes for Delta Airlines at BWI in 2019](graph9.png)
+
+The last graph compares Southwest to Delta. It shows the massive difference in delays for Southwest and Delta.
+
 ![Delays for Delta and Southwest at BWI in 2017-2019](graph10.png)
+
+Based on the data I looked at, Delta is the best airline to fly with BWI based on popularity and delay data.
 
 [Airline Delays Data Set](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp)
