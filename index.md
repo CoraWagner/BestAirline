@@ -1,4 +1,4 @@
-# The Best Airline to FLy Based on Delay Statistics
+<div align = "center"># The Best Airline to FLy Based on Delay Statistics
 ## Cora Wagner
 
 ![Top 3 Airlines at BWI in 2019](graph1.png)
