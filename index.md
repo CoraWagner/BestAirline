@@ -1,9 +1,9 @@
 # The Best Airline to Fly Based on Delay Statistics
 ## Cora Wagner
 
-For this project, I selected a data set from The Bureau of Transportation on airline delays. I wanted to take a look at what airline is best to fly at BWI over the span of three years before the Covid-19 shutdown (2017-2019). The determination of best airline is based off of calculating the top three airlines off of total number of arriving delays. If an airline has an ability to have a high number of delays there is a chance they have a high number of flights. The top three airlines were then compared based on delay causes. From that the best airline was determined of the top three, and that airlines delay causes was broken down over the span of each year. This shows a trend in delays getting better or worse over the years. The last comparison takes the best and worst airlines of the top three and displays the numbers of each delay cause.
+For this project, I selected a data set from The Bureau of Transportation on airline delays. I wanted to take a look at what airline is best to fly at BWI over the span of three years before the Covid-19 shutdown (2017-2019). The determination of best airline is based off of calculating the top three airlines off of total number of arriving delays. If an airline has an ability to have a high number of delays, there is a chance they have a high number of flights. The top three airlines were then compared based on delay causes. From that the best airline was determined of the top three, and that airlines delay causes were broken down over the span of each year. This shows a trend in delays getting better or worse over the years. The last comparison takes the best and worst airlines of the top three and displays the numbers of each delay cause.
 
-The data, as mentioned previously, was created by The Bureau of Transportation since they have access to flight data. Their website had a nice GUI for users to clean the data they would like to look at before they download an Excel sheet. It was here that I selected to have all airports and all airlines wihtin the 2017-2019 time period. Having a broad range of airports and airlines allowed to me reask questions as I was playing with the data in Tableau. In the end, I used Baltimore-Washington International (BWI) airport as the standard airport in my research since that is the airport that my fiance and I fly in and out of the most.
+The data, as mentioned previously, was created by The Bureau of Transportation since they have access to flight data. Their website had a nice GUI for users to clean the data they would like to look at before they download an Excel sheet. It was here that I selected to have all airports and all airlines within the 2017-2019 time period. Having a broad range of airports and airlines allowed to me re-ask questions as I was playing with the data in Tableau. In the end, I used Baltimore-Washington International (BWI) airport as the standard airport in my research since that is the airport that my fiancé and I fly in and out of the most.
 
 Once I decided the airport, I looked at the total number of delayed flights each airline had at BWI. I am making a correlation between number of flights and number of delays to determine that Southwest Airlines, Spirit Airlines, and Delta Airlines are the top three airlines at BWI. Meaning they are the airlines flown the most by travelers at BWI.
 
@@ -14,9 +14,9 @@ Southwest had the most carrier delays in 2019 while Delta had the least of the t
 
 ![Carrier Delays for Airlines at BWI in 2019](graph2.png)
 
-Southwest had the most late aircraft delays in 2019 while Delta had the least of the top three airlines.
+Southwest had the most Late aircraft delays in 2019 while Delta had the least of the top three airlines.
 
-![Late Aircraft Delays for Airlilnes at BWI in 2019](graph3.png)
+![Late Aircraft Delays for Airlines at BWI in 2019](graph3.png)
 
 Southwest had the most National Aviation System (NAS) delays in 2019 while Delta had the least of the top three airlines.
 
@@ -31,7 +31,7 @@ Southwest had the most weather delays in 2019 while Delta had the least of the t
 ![Weather Delays for Airlines at BWI in 2019](graph6.png)
 
 Based on the prior graphs, Delta is the airline with the least delays in the top three airlines. Now I will breakdown Delta's delay causes for each year (2017-2019).
-The pie charts show that Delta improved thier delays between 2017 and 2019. Each year most of the categories decreased, except NAS and late aircraft delays.
+The pie charts show that Delta improved their delays between 2017 and 2019. Each year most of the categories decreased, except NAS and late aircraft delays.
 
 ![Delay Causes for Delta Airlines at BWI in 2017](graph7.png)
 ![Delay Causes for Delta Airlines at BWI in 2018](graph8.png)
