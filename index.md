@@ -1,7 +1,7 @@
 # The Best Airline to Fly Based on Delay Statistics
 ## Cora Wagner
 
-For this project, I selected a data set from The Bureau of Transportation on airline delays. I wanted to take a look at what airline is best to fly at BWI over the span of three years before the Covid-19 shutdown (2017-2019).
+For this project, I selected a data set from The Bureau of Transportation on airline delays. I wanted to take a look at what airline is best to fly at BWI over the span of three years before the Covid-19 shutdown (2017-2019). The determination of best airline is based off of calculating the top three airlines off of total number of arriving delays. If an airline has an ability to have a high number of delays there is a chance they have a high number of flights. The top three airlines were then compared based on delay causes. From that the best airline was determined of the top three, and that airlines delay causes was broken down over the span of each year. This shows a trend in delays getting better or worse over the years. The last comparison takes the best and worst airlines of the top three and displays the numbers of each delay cause.
 
 The data, as mentioned previously, was created by The Bureau of Transportation since they have access to flight data. Their website had a nice GUI for users to clean the data they would like to look at before they download an Excel sheet. It was here that I selected to have all airports and all airlines wihtin the 2017-2019 time period. Having a broad range of airports and airlines allowed to me reask questions as I was playing with the data in Tableau. In the end, I used Baltimore-Washington International (BWI) airport as the standard airport in my research since that is the airport that my fiance and I fly in and out of the most.
 
@@ -41,6 +41,8 @@ The last graph compares Southwest to Delta. It shows the massive difference in d
 
 ![Delays for Delta and Southwest at BWI in 2017-2019](graph10.png)
 
-Based on the data I looked at, Delta is the best airline to fly with BWI based on popularity and delay data.
+Based on this data, Delta is the best airline to fly if you want a popular airline and a smaller chance of delays. 
+
+Delta was determined as being a top airline by having enough flights to have a high number of delays, but not have the most delays such as Southwest Airlines. It was then determined that Delta had the least number of NAS, Late Aircraft Arrival, Security, Weather, and Carrier delays making it the best of the top three airlines. It was also determined that 2019 was the best year for Delta concerning delays by reducing the number of delays from 2018 and being close to reducing the number of delays from 2017. We were then able to see that there was a drastic difference in Delta and Southwest Airlines delays causes by graphing them side-by-side.
 
 [Airline Delays Data Set](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp)
